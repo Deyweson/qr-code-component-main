@@ -18,7 +18,7 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 
 ### Links:
 
-[Live site URL here](https://deyvesu.github.io/order-summary/)
+[Live site URL here](https://deyvesu.github.io/qr-code-component-main/)
 
 ## Meu processo:
 
@@ -31,6 +31,6 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 ## Author:
 
 - Website - [Deyve](https://github.com/Deyvesu)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Deyvesu)
-- Twitter - [@yourusername](https://twitter.com/Anteikhu_D)
+- Frontend Mentor - [@Deyvesu](https://www.frontendmentor.io/profile/Deyvesu)
+- Twitter - [@Anteikhu_D](https://twitter.com/Anteikhu_D)
 
